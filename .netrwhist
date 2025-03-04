@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='C:/Users/568879/OneDrive - parkercorp'
+let g:netrw_dirhist_0='C:\Users\568879\OneDrive - parkercorp'
+let g:netrw_dirhist_9='C:\Users\568879\.azuredatastudio'
+let g:netrw_dirhist_8='C:/Users/568879/AppData/Roaming/yazi/config/flavors'
+let g:netrw_dirhist_7='C:\Users\568879\AppData\Roaming\yazi\config\flavors'
+let g:netrw_dirhist_6='C:/Users/568879'
+let g:netrw_dirhist_5='C:/Users/568879/.cache'
+let g:netrw_dirhist_4='C:/Users/568879/.cache/starship'
+let g:netrw_dirhist_3='C:/Users/568879/.cache'
+let g:netrw_dirhist_2='C:\Users\568879\.cache'
