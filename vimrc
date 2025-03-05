@@ -31,6 +31,9 @@ nnoremap <leader>Y "+Y
 nnoremap <leader>p "+p
 nnoremap <leader>P "+P
 
+" remap shift+Q - I do not use Ex mode
+nnoremap <S-Q> @q
+
 " Yank the current line
 nnoremap <leader>y :call CopyLine()<CR>
 
