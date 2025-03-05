@@ -109,10 +109,18 @@ colorscheme catppuccin_macchiato
 "
 " Which_key
 "
-nnoremap <silent> <leader>      :<c-u>WhichKey '<Space>'<CR>
-nnoremap <silent> <localleader> :<c-u>WhichKey  ','<CR>
-set timeoutlen=250
+" nnoremap <silent> <leader>      :<c-u>WhichKey '<Space>'<CR>
+" nnoremap <silent> <localleader> :<c-u>WhichKey  ','<CR>
+" set timeoutlen=250
 
 " source other files
 source $HOME/vimfiles/functions.vim
 " source $HOME/vimfiles/plug.vim
+let g:loaded_gzip=1
+let g:loaded_matchit=1
+let g:loaded_netrwPlugin=1
+let g:loaded_tarPlugin=1
+let g:loaded_zipPlugin=1
+let g:loaded_man=1
+let g:loaded_2html_plugin=1
+let g:loaded_remote_plugins=1
