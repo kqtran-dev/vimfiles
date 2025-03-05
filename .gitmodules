@@ -1,0 +1,3 @@
+[submodule "ui/start"]
+	path = ui/start
+	url = https://github.com/catppuccin/vim

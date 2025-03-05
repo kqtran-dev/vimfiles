@@ -104,7 +104,7 @@ set listchars=tab:│·,extends:→,precedes:‹,nbsp:·,trail:·
 set list
 set termguicolors
 colorscheme catppuccin_macchiato
-let g:airline_theme = 'catppuccin_mocha'
+" let g:airline_theme = 'catppuccin_mocha'
 
 "
 " Which_key
